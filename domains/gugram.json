@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "твой_логин_на_github",
+    "email": "твоя_почта"
+  },
+  "record": {
+    "type": "NS",
+    "value": ["ns1.cloudflare.com", "ns2.cloudflare.com"]
+  }
+}
